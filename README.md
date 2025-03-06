@@ -8,7 +8,7 @@
 </div>
 
 
-<img align="right" height="300" src="https://thumbs.dreamstime.com/b/coding-night-tech-workers-digital-canvas-person-working-computer-colorful-pixel-art-style-surrounded-multiple-308171863.jpg"  />
+<img align="right" height="250" src="https://thumbs.dreamstime.com/b/coding-night-tech-workers-digital-canvas-person-working-computer-colorful-pixel-art-style-surrounded-multiple-308171863.jpg"  />
 
 ###
 
