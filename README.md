@@ -105,7 +105,7 @@
 
 ---
 ## 💡 What I Do Best  
-- 🚀 **AI & ML Mastery – Deep Learning | Vision AI | Model Optimization  
+- 🚀 **AI & ML Mastery** – Deep Learning | Vision AI | Model Optimization  
 - 🔐 **Cybersecurity Geek** – Ethical Hacking | Threat Analysis | Network Defense  
 - ⚡ **IoT & Embedded Wizardry** – Microcontrollers | Edge AI | Real-Time Systems  
 - 💻 **Code Ninja** – Python 🐍 | Java ☕ | C++ 🚀 | MATLAB | VHDL  
