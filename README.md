@@ -18,6 +18,10 @@
 </div>
 ---
 
+<img src="https://raw.githubusercontent.com/abhishek106001/abhishek106001/output/snake.svg" alt="Snake animation" />
+
+###
+
 ## 🚀 Tech Arsenal & Skillset
 
 <div align="left">
