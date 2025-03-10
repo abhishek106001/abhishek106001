@@ -5,6 +5,9 @@
 
 **Hustling to be the Batman of Tech – Skilled, Smart, and Unstoppable! 🦇💻**  
 -
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek106001&theme=transparent&hide_border=true&card_width=550&card_height=225)](https://git.io/streak-stats)
+
 </div>
 
 
