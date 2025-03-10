@@ -5,9 +5,6 @@
 
 **Hustling to be the Batman of Tech – Skilled, Smart, and Unstoppable! 🦇💻**  
 -
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek106001&theme=transparent&hide_border=true&card_width=550&card_height=225)](https://git.io/streak-stats)
-
 </div>
 
 
@@ -21,7 +18,13 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=abhishek106001&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false&order=2" height="150" alt="languages graph"  />
 </div>
 
+<div align="center">
+
 <img src="https://raw.githubusercontent.com/abhishek106001/abhishek106001/output/snake.svg" alt="Snake animation" />
+  
+[![GitHub Streak](https://streak-stats.demolab.com?user=abhishek106001&theme=transparent&hide_border=true&card_width=550&card_height=225)](https://git.io/streak-stats)
+
+</div>
 
 ###
 
